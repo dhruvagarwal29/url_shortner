@@ -9,8 +9,6 @@ Welcome to the URL Shortener project! This simple Python-based web application a
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Deployment](#deployment)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
